@@ -2,7 +2,6 @@
 In this repository, I have compiled all my Java programs made during our Integrative Programming Technologies Course, as well as the programs I created from online courses.
 
 ## Folder Structure
-
 ```
 📂 Python-Code-Repo
 ├── 📂 src                   # Source code files
@@ -25,21 +24,17 @@ In this repository, I have compiled all my Java programs made during our Integra
 ```
 
 ## Python Version Used
-
 This repository is developed using:
 
 - **Python Version:** 3.10+
 - **IDE Used:** VS Code, PyCharm
 
-## Requirements
-
+## Tech Stack Used
 - Python 3.10+
 - IDE (VS Code, PyCharm)
-- Virtual Environment (optional but recommended)
 
 ## Libraries Used
-
-This repository utilizes various Python libraries, depending on the specific project or exercise. Some commonly used libraries include:
+This repository utilizes various Python libraries, depending on the specific project or activity. Some commonly used libraries include:
 
 - **NumPy** - For numerical computing
 - **Pandas** - For data analysis and manipulation
