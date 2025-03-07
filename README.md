@@ -1,4 +1,4 @@
-# Python Code Repository
+# Python Repository
 In this repository, I have compiled all my Java programs made during our Integrative Programming Technologies Course, as well as the programs I created from online courses.
 
 ## Folder Structure
